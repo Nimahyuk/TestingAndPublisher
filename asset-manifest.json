@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TestingAndPublisher/static/css/main.eb0ad31a.css",
+    "main.js": "/TestingAndPublisher/static/js/main.60e629e8.js",
+    "static/js/787.502a2359.chunk.js": "/TestingAndPublisher/static/js/787.502a2359.chunk.js",
+    "static/media/icono_comida.svg": "/TestingAndPublisher/static/media/icono_comida.8db5d783134c1b742f5157205d3852ab.svg",
+    "static/media/icono_ocio.svg": "/TestingAndPublisher/static/media/icono_ocio.9b27b6fc2f0380b621ad4a7e90c7047a.svg",
+    "static/media/icono_suscripciones.svg": "/TestingAndPublisher/static/media/icono_suscripciones.54af412d3a6e783ad71a30b3c5fae5b6.svg",
+    "static/media/icono_gastos.svg": "/TestingAndPublisher/static/media/icono_gastos.0bfa8c4a3e088877b4266c27f90747f8.svg",
+    "static/media/icono_ahorro.svg": "/TestingAndPublisher/static/media/icono_ahorro.c741f6c708db31f99e6d894ede5f1217.svg",
+    "index.html": "/TestingAndPublisher/index.html",
+    "static/media/icono_casa.svg": "/TestingAndPublisher/static/media/icono_casa.1cc157aae5305762e16451b5c5d22c01.svg",
+    "static/media/icono_salud.svg": "/TestingAndPublisher/static/media/icono_salud.661d2e8e922a57adc4174968fad70c65.svg",
+    "static/media/nuevo-gasto.svg": "/TestingAndPublisher/static/media/nuevo-gasto.898400973dc91c23f45e616b39d346be.svg",
+    "static/media/cerrar.svg": "/TestingAndPublisher/static/media/cerrar.0c10d412401060d8d34ee9b9983b75dd.svg",
+    "main.eb0ad31a.css.map": "/TestingAndPublisher/static/css/main.eb0ad31a.css.map",
+    "main.60e629e8.js.map": "/TestingAndPublisher/static/js/main.60e629e8.js.map",
+    "787.502a2359.chunk.js.map": "/TestingAndPublisher/static/js/787.502a2359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0ad31a.css",
+    "static/js/main.60e629e8.js"
+  ]
+}
