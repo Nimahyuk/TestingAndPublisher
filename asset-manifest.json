@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TestingAndPublisher/static/css/main.eb0ad31a.css",
-    "main.js": "/TestingAndPublisher/static/js/main.60e629e8.js",
+    "main.js": "/TestingAndPublisher/static/js/main.343bb68f.js",
     "static/js/787.502a2359.chunk.js": "/TestingAndPublisher/static/js/787.502a2359.chunk.js",
     "static/media/icono_comida.svg": "/TestingAndPublisher/static/media/icono_comida.8db5d783134c1b742f5157205d3852ab.svg",
     "static/media/icono_ocio.svg": "/TestingAndPublisher/static/media/icono_ocio.9b27b6fc2f0380b621ad4a7e90c7047a.svg",
@@ -14,11 +14,11 @@
     "static/media/nuevo-gasto.svg": "/TestingAndPublisher/static/media/nuevo-gasto.898400973dc91c23f45e616b39d346be.svg",
     "static/media/cerrar.svg": "/TestingAndPublisher/static/media/cerrar.0c10d412401060d8d34ee9b9983b75dd.svg",
     "main.eb0ad31a.css.map": "/TestingAndPublisher/static/css/main.eb0ad31a.css.map",
-    "main.60e629e8.js.map": "/TestingAndPublisher/static/js/main.60e629e8.js.map",
+    "main.343bb68f.js.map": "/TestingAndPublisher/static/js/main.343bb68f.js.map",
     "787.502a2359.chunk.js.map": "/TestingAndPublisher/static/js/787.502a2359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb0ad31a.css",
-    "static/js/main.60e629e8.js"
+    "static/js/main.343bb68f.js"
   ]
 }
